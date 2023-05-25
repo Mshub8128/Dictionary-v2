@@ -1,0 +1,10 @@
+<START>
+<highScore>
+30
+<loadDefault>
+1
+<playTitle>
+0
+<Audio>
+0
+<END>
